@@ -1,0 +1,33 @@
+body {
+     text-align: center;
+     background-image:url("https://i0.wp.com/batman-news.com/wp-content/uploads/2019/07/Wu-Tang-Clan-logo.jpg?resize=696%2C392&quality=80&strip=info&ssl=1");
+     background-size: 100%;
+}
+img {
+ width: 40%;   
+}
+body {
+ color:#b31d1d;  
+ }
+ 
+.bestrapper {
+   font-family: 'Calistoga', cursive;
+}
+
+.y {
+   font-family: 'Oswald', sans-serif;
+}
+
+.YM {
+   font-family: 'Roboto Slab', serif;   
+}
+
+.D {
+   font-family: 'Bebas Neue', cursive;
+}
+.t{
+   font-family: 'Fredericka the Great', cursive; 
+}
+.X {
+   font-family: 'Love Ya Like A Sister', cursive;   
+}
